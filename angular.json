@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "image-classifier-upload"
+  "defaultProject": "image-classifier-upload",
+  "cli": {
+    "analytics": false
+  }
 }
